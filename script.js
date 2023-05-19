@@ -1,4 +1,4 @@
-let users = `[
+let user = [
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -229,4 +229,6 @@ let users = `[
         "bs": "target end-to-end models"
       }
     }
-  ]`
+  ]
+
+console.log(user);
